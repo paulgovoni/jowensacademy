@@ -1,0 +1,40 @@
+#main-slider .slider-inner h2 > span {
+    color: #553285;
+}
+
+.navbar.navbar-default .navbar-brand {
+    color: #553285;
+}
+
+#main-menu.navbar-default .navbar-nav > li.active > a, #main-menu.navbar-default .navbar-nav > li.open > a, #main-menu.navbar-default .navbar-nav > li:hover > a {
+    border-top: 3px solid #553285;
+}
+
+.btn.btn-primary {
+background: #553285;
+border-color: #553285;
+}
+
+.media.service-box .pull-left > i {
+    color: #553285;
+}
+
+#cta2 h2 > span {
+    color: #553285;
+}
+
+#get-in-touch {
+    background-image: -moz-linear-gradient(90deg, #9768D1 0%, #553285 100%);
+}
+
+#bar {
+    background: #553285;
+}
+
+.media.service-box .pull-left > i::after {
+    background: #553285;
+}
+
+.section-header .section-title::after {
+    background: #553285;
+}
